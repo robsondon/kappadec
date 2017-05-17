@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebaacc6e-e4c6-4b6c-abb8-bc7ef0542b72" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/android-chrome-192x192.png" afterPath="$PROJECT_DIR$/images/favicon/android-chrome-192x192.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/android-chrome-256x256.png" afterPath="$PROJECT_DIR$/images/favicon/android-chrome-256x256.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/apple-touch-icon.png" afterPath="$PROJECT_DIR$/images/favicon/apple-touch-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/favicon-16x16.png" afterPath="$PROJECT_DIR$/images/favicon/favicon-16x16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/favicon-32x32.png" afterPath="$PROJECT_DIR$/images/favicon/favicon-32x32.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/mstile-150x150.png" afterPath="$PROJECT_DIR$/images/favicon/mstile-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/resources/logo.png" afterPath="$PROJECT_DIR$/images/resources/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kappadec.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,13 +38,88 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shop.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shop.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="16430">
               <caret line="982" column="7" selection-start-line="982" selection-start-column="7" selection-end-line="982" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop-single.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-single.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="1015" column="33" selection-start-line="1015" selection-start-column="33" selection-end-line="1015" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="689">
+              <caret line="895" column="7" selection-start-line="895" selection-start-column="7" selection-end-line="895" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project-grid-v2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-grid-v2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="689">
+              <caret line="719" column="7" selection-start-line="719" selection-start-column="7" selection-end-line="719" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project-fullwidth.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-fullwidth.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13260">
+              <caret line="780" column="7" selection-start-line="780" selection-start-column="7" selection-end-line="780" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project-classic-v1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-classic-v1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="689">
+              <caret line="728" column="7" selection-start-line="728" selection-start-column="7" selection-end-line="728" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="689">
+              <caret line="694" column="7" selection-start-line="694" selection-start-column="7" selection-end-line="694" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,6 +135,12 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/shop.html" />
+        <option value="$PROJECT_DIR$/shop-single.php" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/project-grid-v2.html" />
+        <option value="$PROJECT_DIR$/project-fullwidth.html" />
+        <option value="$PROJECT_DIR$/project-classic-v1.html" />
+        <option value="$PROJECT_DIR$/services.html" />
       </list>
     </option>
   </component>
@@ -170,12 +245,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495046902658</updated>
-      <workItem from="1495046904670" duration="824000" />
+      <workItem from="1495046904670" duration="1644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="824000" />
+    <option name="totallyTimeSpent" value="1644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="0" />
@@ -225,6 +300,69 @@
           <caret line="982" column="7" selection-start-line="982" selection-start-column="7" selection-end-line="982" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="1015" column="33" selection-start-line="1015" selection-start-column="33" selection-end-line="1015" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="895" column="7" selection-start-line="895" selection-start-column="7" selection-end-line="895" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-grid-v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="719" column="7" selection-start-line="719" selection-start-column="7" selection-end-line="719" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-fullwidth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13260">
+          <caret line="780" column="7" selection-start-line="780" selection-start-column="7" selection-end-line="780" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-classic-v1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="728" column="7" selection-start-line="728" selection-start-column="7" selection-end-line="728" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="694" column="7" selection-start-line="694" selection-start-column="7" selection-end-line="694" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebaacc6e-e4c6-4b6c-abb8-bc7ef0542b72" name="Default" comment="" />
+    <list default="true" id="ebaacc6e-e4c6-4b6c-abb8-bc7ef0542b72" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/android-chrome-192x192.png" afterPath="$PROJECT_DIR$/images/favicon/android-chrome-192x192.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/android-chrome-256x256.png" afterPath="$PROJECT_DIR$/images/favicon/android-chrome-256x256.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/apple-touch-icon.png" afterPath="$PROJECT_DIR$/images/favicon/apple-touch-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/favicon-16x16.png" afterPath="$PROJECT_DIR$/images/favicon/favicon-16x16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/favicon-32x32.png" afterPath="$PROJECT_DIR$/images/favicon/favicon-32x32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/mstile-150x150.png" afterPath="$PROJECT_DIR$/images/favicon/mstile-150x150.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/resources/logo.png" afterPath="$PROJECT_DIR$/images/resources/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="kappadec.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,14 +31,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="1391" column="7" selection-start-line="1391" selection-start-column="7" selection-end-line="1391" selection-end-column="7" />
+            <state relative-caret-position="146">
+              <caret line="767" column="0" selection-start-line="767" selection-start-column="0" selection-end-line="767" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16430">
+              <caret line="982" column="7" selection-start-line="982" selection-start-column="7" selection-end-line="982" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,6 +65,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/shop.html" />
       </list>
     </option>
   </component>
@@ -147,15 +170,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495046902658</updated>
-      <workItem from="1495046904670" duration="362000" />
+      <workItem from="1495046904670" duration="824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="362000" />
+    <option name="totallyTimeSpent" value="824000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="886" extended-state="1" />
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -187,11 +210,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="1391" column="7" selection-start-line="1391" selection-start-column="7" selection-end-line="1391" selection-end-column="7" />
+        <state relative-caret-position="146">
+          <caret line="767" column="0" selection-start-line="767" selection-start-column="0" selection-end-line="767" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16430">
+          <caret line="982" column="7" selection-start-line="982" selection-start-column="7" selection-end-line="982" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

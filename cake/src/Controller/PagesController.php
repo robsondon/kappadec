@@ -47,6 +47,7 @@ class PagesController extends AppController
         if (in_array('..', $path, true) || in_array('.', $path, true)) {
             throw new ForbiddenException();
         }
+
         $page = $subpage = null;
 
         if (!empty($path[0])) {
@@ -63,7 +64,7 @@ class PagesController extends AppController
             if (Configure::read('debug')) {
                 throw $e;
             }
-            throw new NotFoundException();
+            throw new NotFoundExceptions();
         }
     }
 }

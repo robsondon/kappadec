@@ -32,6 +32,9 @@ if (!extension_loaded('mbstring')) {
     trigger_error('You must enable the mbstring extension to use CakePHP.', E_USER_ERROR);
 }
 
+
+
+
 /*
  * Configure paths required to find CakePHP + general filepath
  * constants
@@ -217,6 +220,7 @@ Type::build('timestamp')
  * Only try to load DebugKit in development mode
  * Debug Kit should not be installed on a production system
  */
+Plugin::load('Ajax', ['bootstrap' => true]);
 if (Configure::read('debug')) {
     Plugin::load('DebugKit', ['bootstrap' => true]);
 }
